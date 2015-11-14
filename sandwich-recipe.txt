@@ -1,0 +1,8 @@
+ingredients:
+bread: dutch crust
+meat: Roast Beef
+Cheese: Provolone
+Vegetable: Lettuce
+1. cut the bread in half
+2. place meat, cheese, and lettuce on one half of the bread, respectively.
+3. place other half of bread on the top
